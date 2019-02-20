@@ -17,3 +17,14 @@ npm run dev
 修改 ./src/main.js中的myIp全局变量, 获取到后端接口
 ```
 
+
+
+## 3. 效果展示
+
+
+
+![](./pictures/前端展示1.png)
+
+![](./pictures/前端展示 2.png)
+
+![](./pictures/前端展示3.png)
